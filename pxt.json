@@ -1,0 +1,22 @@
+{
+    "name": "made by me ",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "Arrosage avec l'humidité du sol": "github:recitmstmam/arrosage-avec-humidite-du-sol-avec-radio#1523c837dbc160cb30a0734bbc41dc759b550f4c"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
